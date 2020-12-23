@@ -1,4 +1,4 @@
-# SA2-Christmas-Metal-Sonic
+# Christmas Metal Sonic
 
 A mod for Sonic Adventure 2.
 
